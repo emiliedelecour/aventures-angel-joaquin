@@ -1,0 +1,27 @@
+LES AVENTURES D'ANGEL & JOAQUIN — VERSION 1
+
+Cette application est développée en HTML/CSS/JavaScript. Pas de Base44, Lovable ni abonnement.
+
+POUR TESTER SUR MAC :
+- Décompresser l'archive.
+- Double-cliquer sur index.html et ouvrir dans un navigateur.
+- Les aventures, le frigo, la construction et les mini-jeux sont jouables.
+
+POUR INSTALLER SUR IPHONE :
+- Déposer TOUS les fichiers du dossier sur un hébergement HTTPS (par exemple GitHub Pages, gratuit).
+- Ouvrir l'adresse publiée dans Safari sur l'iPhone.
+- Partager > Sur l'écran d'accueil > Ajouter.
+- Une icône « Angel & Joaquin » apparaît. Appuyer dessus pour jouer.
+
+HÉBERGEMENT GITHUB PAGES :
+1. Créer un compte sur github.com si nécessaire.
+2. Créer un nouveau dépôt public, par exemple angel-joaquin.
+3. Ajouter tous les fichiers du dossier, en conservant le dossier assets.
+4. Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+5. Attendre la publication et ouvrir le lien fourni dans Settings > Pages.
+
+ATTENTION À LA VIE PRIVÉE : le dépôt GitHub Pages public rend les illustrations accessibles à toute personne connaissant le lien. Les portraits sont inspirés d'une photo personnelle. Si vous souhaitez limiter leur diffusion, choisissez un hébergement privé avec contrôle d'accès ou remplacez-les par des personnages génériques.
+
+Le jeu sauvegarde sa progression sur l'appareil utilisé (localStorage), sans compte ni serveur. En effaçant les données Safari, la progression peut être perdue.
+La lecture des consignes vocales utilise la synthèse vocale du navigateur : appuyer sur « Écouter la consigne ».
+La cuisine réelle doit toujours être supervisée par un adulte.
